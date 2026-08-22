@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://TomasPegado.github.io/sitemap.xml
+Sitemap: https://tomaslenzi.com/sitemap.xml
