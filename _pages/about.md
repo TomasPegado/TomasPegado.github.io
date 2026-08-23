@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.tecgraf.puc-rio.br/'>TecGraf / PUC-Rio</a>. tlenzi@inf.puc-rio.br. 
 
