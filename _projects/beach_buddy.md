@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BeachBuddy
-description: A marketplace and management platform connecting athletes to beach sports training centers in Rio de Janeiro.
+description: A marketplace and management platform connecting people to beach sports training centers in Rio de Janeiro.
 img: assets/img/BB_logo_blue.jpg
 importance: 1
 category: work
@@ -34,7 +34,8 @@ The consumer side is a discovery and booking product. Athletes onboard through a
     </div>
 </div>
 <div class="caption">
-    Left: onboarding captures training preferences to personalize recommendations. Right: a training center profile with schedule, class offerings, plans, and booking.
+    Left: Onboarding captures training preferences. 
+    Right: a training center profile with schedule, class offerings, and booking.
 </div>
 
 Discovery is map-first, since proximity to a specific stretch of beach is the strongest factor in where someone actually trains.
