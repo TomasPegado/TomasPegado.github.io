@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: <a href='https://www.tecgraf.puc-rio.br/'>TecGraf / PUC-Rio</a>. tlenzi@inf.puc-rio.br. 
 
@@ -34,7 +34,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I started my undergraduate studies in math and economics, but found a passion for software development. I graduated in computer science with an undergraduate thesis on the automatic evaluation of conversational text-to-SQL agents at PUC-Rio, and now I'm an M.Sc. student and full-time researcher at TecGraf, where I work on the development of production-ready large language model-based software for a major corporate oil company.
+I started my undergraduate studies in math and economics, but found a passion for software development. I graduated in computer science with an undergraduate thesis on the automatic evaluation of conversational text-to-SQL agents at PUC-Rio, and now I'm an M.Sc. student and full-time researcher at TecGraf, where I work on developing production-ready, large-language-model-based software for a major corporate oil company.
+
+Also, I volunteer as a mathematics teacher at a community college-prep program, where I teach two classes of high school students.
 
 In my free time, I develop BeachBuddy. This mobile platform helps people find beach and water sports training schools in Rio de Janeiro and provides a management system for training center owners. This idea came from my passion for Surf and FootVolley, both of which I try to practice early in the morning and on weekends.
 
