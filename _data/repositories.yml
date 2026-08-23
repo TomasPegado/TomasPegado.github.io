@@ -4,5 +4,5 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - https://github.com/TomasPegado/benchmark_nl_databases_conversational_interfaces
-  - https://github.com/TomasPegado/PrevisaoBrasileirao
+  - TomasPegado/benchmark_nl_databases_conversational_interfaces
+  - TomasPegado/PrevisaoBrasileirao
